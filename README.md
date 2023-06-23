@@ -1,2 +1,2 @@
 # Muestreo de Presion
-## Integrantes: Valentin Zaccari, Iidro Stabile y Santiago Tejeda
+## Integrantes: Valentin Zaccari, Isidro Stabile y Santiago Tejeda
